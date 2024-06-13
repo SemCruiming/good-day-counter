@@ -1,0 +1,51 @@
+body {
+    background-image: url("f8.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    height: 100vh;
+}
+
+.container {
+    background: white;
+    max-width: 50%;
+    max-height: 40%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+h3 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+h4 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+button {
+    font-size: small;
+    border: 1px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    font-weight: bold;
+    width: 140px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #2C2891;
+}
+
+#save-btn {
+    background: #1C7947;
+}
+
+#save-el {
+    font-weight: bold;
+}
+
